@@ -1,0 +1,12 @@
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+D:\Mphasis\Task\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
